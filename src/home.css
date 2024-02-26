@@ -1,0 +1,32 @@
+/* home.css */
+
+.home-container {
+    display: grid;
+    grid-template-columns: 1fr; /* Adjust columns as needed */
+    grid-gap: 20px; /* Adjust spacing as needed */
+    padding: 20px;
+  }
+  
+  .welcome-message {
+    grid-row: 1; /* Since there's no image, the welcome message fills the container */
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Or adjust as needed */
+  }
+  
+  .welcome-message h2 {
+    font-family: "Open Sans", sans-serif; /* Or your preferred font */
+    font-size: 24px;
+    color: #333;
+    margin: 0;
+  }
+  
+  /* Add more styles for other elements as needed */
+  
+  /* Use media queries for responsive adjustments */
+  @media (max-width: 768px) {
+    /* Adjust grid layout, font sizes, etc. for smaller screens */
+  }
+  

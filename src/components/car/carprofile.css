@@ -1,0 +1,48 @@
+/* carprofile.css */
+
+.shadow {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+.card-body {
+    padding: 1.25rem;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.btn-outline-primary {
+    color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-outline-warning {
+    color: #ffc107;
+    border-color: #ffc107;
+}
+
+.btn-outline-warning:hover {
+    color: #212529;
+    background-color: #ffc107;
+    border-color: #ffc107;
+}

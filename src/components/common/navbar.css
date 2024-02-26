@@ -1,0 +1,82 @@
+/* navbar.css */
+
+
+
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+}
+
+.navbar-toggler {
+    border: none;
+    color: #fff;
+}
+
+.navbar {
+    background-color: #f8fafc; /* Lighter background */
+  }
+  
+  .navbar-brand {
+    color: #343a40; /* Darker color for contrast */
+    font-family: "Open Sans", sans-serif; /* Modern font */
+    font-size: 1.7rem;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #343a40;
+    font-family: "Roboto", sans-serif; /* Different font for nav links */
+    font-size: 1rem;
+    padding: 0.75rem 1.25rem; /* Adjust padding */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* Darker hover for contrast */
+    border-radius: 5px;
+  }
+  
+  .navbar-toggler {
+    border: none;
+    color: #343a40; /* Match navbar color */
+  }
+  
+  .navbar-toggler:focus {
+    outline: none;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #343a40; /* Match navbar color */
+  }
+  
+  .navbar-nav {
+    align-items: center;
+  }
+  
+  .dropdown-menu {
+    background-color: #fff; /* Lighter dropdown background */
+    border: 1px solid rgba(0, 0, 0, 0.1); /* Subtle border */
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 8px 0;
+  }
+  
+  /*.dropdown-item {
+    /* Adapt dropdown item styles to match the new design */
+  
+  

@@ -1,0 +1,25 @@
+/* editcar.css */
+
+.col-sm-8 {
+    margin-top: 50px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group-text {
+    width: 200px;
+}
+
+.form-control {
+    width: 300px;
+}
+
+.btn-outline-success {
+    margin-right: 10px;
+}
+
+.btn-outline-warning {
+    margin-left: 10px;
+}

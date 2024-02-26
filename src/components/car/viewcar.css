@@ -1,0 +1,41 @@
+/* viewcar.css */
+
+.table {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    vertical-align: middle !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.btn-info, .btn-warning {
+    color: white !important;
+}
+
+.btn-info:hover, .btn-warning:hover {
+    color: white !important;
+}
+
+.btn-info {
+    background-color: #17a2b8 !important;
+    border-color: #17a2b8 !important;
+}
+
+.btn-warning {
+    background-color: #ffc107 !important;
+    border-color: #ffc107 !important;
+}
+
+.btn-info:hover {
+    background-color: #138496 !important;
+    border-color: #138496 !important;
+}
+
+.btn-warning:hover {
+    background-color: #e0a800 !important;
+    border-color: #e0a800 !important;
+}
